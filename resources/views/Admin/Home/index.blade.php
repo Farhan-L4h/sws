@@ -46,6 +46,8 @@
                             </a>
                         </div>
                     </div>
+
+                    <!-- Tabel -->
                     <div class="card-body">
                         <div class="alert alert-danger text-center">
                             No Data To Be Read
@@ -82,6 +84,8 @@
                     </div>
                 </div>
             </div>
+
+            <!-- footer -->
             <footer class="footer text-center mt-4">
                 All Rights Reserved by Matrix-admin. Designed and Developed by
                 <a href="https://www.wrappixel.com">WrapPixel</a>.
